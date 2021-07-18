@@ -1,3 +1,7 @@
+# Realtime Coinprice React JS Version
+
+[HSCT.io](https://hsct.io) 리엑트 버전 입니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
